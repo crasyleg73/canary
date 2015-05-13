@@ -1,0 +1,55 @@
+[08:01:45] [CanaryMod] [INFO]: Starting: CanaryMod 1.8.0-1.2.0
+[08:01:45] [CanaryMod] [INFO]: Canary Path: /Users/jmolter1/Documents/Canary Mod/CanaryMod-1.2.0.jar & Working From: /Users/jmolter1/Documents/Canary Mod
+[08:01:45] [CanaryMod] [INFO]: Registered xml Database
+[08:01:45] [CanaryMod] [INFO]: Found 1 plugins; total: 1
+[08:01:46] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting minecraft server version 1.8
+[08:01:46] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Loading properties
+[08:01:46] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Generating keypair
+[08:01:46] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting Minecraft server on *:25565
+[08:01:46] [CanaryMod] [INFO]: Enabling early Plugins...
+[08:01:47] [CanaryMod] [INFO]: Enabling late Plugins...
+[08:01:47] [CanaryMod] [INFO]: Enabling plugin ScriptCraft
+[08:01:48] [ScriptCraft] [WARN]: alias plugin is not yet supported in CanaryMod
+[08:01:49] [ScriptCraft] [WARN]: commando-test not yet supported in CanaryMod
+[08:01:49] [ScriptCraft] [WARN]: commando plugin is not yet supported in CanaryMod
+[08:01:49] [ScriptCraft] [WARN]: cow-clicker minigame is not yet supported in CanaryMod and Craftbukkit
+[08:01:50] [net.minecraft.server.MinecraftServer] [INFO]: Preparing start region for level default_NORMAL (0)
+[08:01:51] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 24%
+[08:01:51] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Done (4.824s)! For help, type "help" or "?"
+[08:01:51] [ScriptCraft] [INFO]: js-patch setTimeout() test complete
+[08:01:55] [net.minecraft.server.network.NetHandlerLoginServer] [INFO]: com.mojang.authlib.GameProfile@73622c74[id=<null>,name=Mumming,properties={},legacy=false] (/127.0.0.1:49802) lost connection: Disconnected
+[08:02:13] [net.minecraft.server.MinecraftServer] [INFO]: Unknown command. Try /help for a list of commands
+[08:02:19] [CanaryMod] [INFO] [MESSAGE]: [say, broadcast] - Broadcasts a message
+[08:02:19] [CanaryMod] [INFO] [MESSAGE]: /say <message>
+[08:02:52] [net.minecraft.server.network.NetHandlerLoginServer] [INFO]: UUID of player Mumming is a32e8a54-848b-4bbd-a3b1-636863688e29
+[08:02:52] [net.minecraft.server.management.ServerConfigurationManager] [INFO]: Mumming[/127.0.0.1:49821] logged in with entity id 82 at (254.33012229599885, 71.0, 135.69999998807907)
+[08:02:53] [net.minecraft.server.MinecraftServer] [INFO]: Mumming joined the game
+[08:02:58] [net.minecraft.server.MinecraftServer] [INFO]: [Mumming: Set the time to 1]
+[08:02:58] [CanaryMod] [INFO]: Command used by Mumming: /time set 1
+[08:03:25] [CanaryMod] [INFO]: Command used by Mumming: /js rainbowTunnel(5,5)
+[08:04:51] [CanaryMod] [INFO]: Command used by Mumming: /js rainbowTunnel(5,5)
+[08:07:12] [CanaryMod] [INFO]: Command used by Mumming: /js rainbowTunnel(5,2)
+[08:38:16] [net.minecraft.server.MinecraftServer] [INFO]: [Mumming: Set the time to 1]
+[08:38:16] [CanaryMod] [INFO]: Command used by Mumming: /time set 1
+[08:40:59] [net.minecraft.server.MinecraftServer] [INFO]: [Mumming: Set the time to 10]
+[08:40:59] [CanaryMod] [INFO]: Command used by Mumming: /time set 10
+[08:41:04] [net.minecraft.server.MinecraftServer] [INFO]: [Mumming: Set the time to 1]
+[08:41:04] [CanaryMod] [INFO]: Command used by Mumming: /time set 1
+[08:41:10] [net.minecraft.server.MinecraftServer] [INFO]: [Mumming: Set the time to 1000]
+[08:41:10] [CanaryMod] [INFO]: Command used by Mumming: /time set 1000
+[08:41:16] [net.minecraft.server.MinecraftServer] [INFO]: [Mumming: Set the time to 5000]
+[08:41:16] [CanaryMod] [INFO]: Command used by Mumming: /time set 5000
+[08:41:23] [net.minecraft.server.MinecraftServer] [INFO]: [Mumming: Set the time to 8000]
+[08:41:23] [CanaryMod] [INFO]: Command used by Mumming: /time set 8000
+[08:41:30] [CanaryMod] [INFO]: Command used by Mumming: /time set 10.000
+[08:41:34] [CanaryMod] [INFO]: <&7Mumming&f> time set 10000
+[08:41:39] [net.minecraft.server.MinecraftServer] [INFO]: [Mumming: Set the time to 10000]
+[08:41:39] [CanaryMod] [INFO]: Command used by Mumming: /time set 10000
+[08:41:46] [net.minecraft.server.MinecraftServer] [INFO]: [Mumming: Set the time to 15000]
+[08:41:46] [CanaryMod] [INFO]: Command used by Mumming: /time set 15000
+[08:41:50] [net.minecraft.server.MinecraftServer] [INFO]: [Mumming: Set the time to 13000]
+[08:41:50] [CanaryMod] [INFO]: Command used by Mumming: /time set 13000
+[08:41:55] [net.minecraft.server.MinecraftServer] [INFO]: [Mumming: Set the time to 12000]
+[08:41:55] [CanaryMod] [INFO]: Command used by Mumming: /time set 12000
+[08:44:41] [net.minecraft.network.NetHandlerPlayServer] [INFO]: Mumming lost connection: Disconnected
+[08:44:41] [net.minecraft.server.MinecraftServer] [INFO]: Mumming left the game
